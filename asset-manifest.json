@@ -1,14 +1,14 @@
 {
-  "main.css": "/gummydummyk/ChanelReactapp.github.io/static/css/main.840ad067.chunk.css",
-  "main.js": "/gummydummyk/ChanelReactapp.github.io/static/js/main.2c8b1f74.chunk.js",
-  "main.js.map": "/gummydummyk/ChanelReactapp.github.io/static/js/main.2c8b1f74.chunk.js.map",
-  "runtime~main.js": "/gummydummyk/ChanelReactapp.github.io/static/js/runtime~main.5d0066a4.js",
-  "runtime~main.js.map": "/gummydummyk/ChanelReactapp.github.io/static/js/runtime~main.5d0066a4.js.map",
-  "static/js/2.1ed43d11.chunk.js": "/gummydummyk/ChanelReactapp.github.io/static/js/2.1ed43d11.chunk.js",
-  "static/js/2.1ed43d11.chunk.js.map": "/gummydummyk/ChanelReactapp.github.io/static/js/2.1ed43d11.chunk.js.map",
-  "index.html": "/gummydummyk/ChanelReactapp.github.io/index.html",
-  "precache-manifest.0ffe24dffefd3dc5376f1b4d5660f162.js": "/gummydummyk/ChanelReactapp.github.io/precache-manifest.0ffe24dffefd3dc5376f1b4d5660f162.js",
-  "service-worker.js": "/gummydummyk/ChanelReactapp.github.io/service-worker.js",
-  "static/css/main.840ad067.chunk.css.map": "/gummydummyk/ChanelReactapp.github.io/static/css/main.840ad067.chunk.css.map",
-  "static/media/logo.svg": "/gummydummyk/ChanelReactapp.github.io/static/media/logo.5d5d9eef.svg"
+  "main.css": "/ChanelReactapp.github.io/static/css/main.840ad067.chunk.css",
+  "main.js": "/ChanelReactapp.github.io/static/js/main.657523fa.chunk.js",
+  "main.js.map": "/ChanelReactapp.github.io/static/js/main.657523fa.chunk.js.map",
+  "runtime~main.js": "/ChanelReactapp.github.io/static/js/runtime~main.668f9c88.js",
+  "runtime~main.js.map": "/ChanelReactapp.github.io/static/js/runtime~main.668f9c88.js.map",
+  "static/js/2.1ed43d11.chunk.js": "/ChanelReactapp.github.io/static/js/2.1ed43d11.chunk.js",
+  "static/js/2.1ed43d11.chunk.js.map": "/ChanelReactapp.github.io/static/js/2.1ed43d11.chunk.js.map",
+  "index.html": "/ChanelReactapp.github.io/index.html",
+  "precache-manifest.62d99250a9d944d764ba197c95a7cea7.js": "/ChanelReactapp.github.io/precache-manifest.62d99250a9d944d764ba197c95a7cea7.js",
+  "service-worker.js": "/ChanelReactapp.github.io/service-worker.js",
+  "static/css/main.840ad067.chunk.css.map": "/ChanelReactapp.github.io/static/css/main.840ad067.chunk.css.map",
+  "static/media/logo.svg": "/ChanelReactapp.github.io/static/media/logo.5d5d9eef.svg"
 }
